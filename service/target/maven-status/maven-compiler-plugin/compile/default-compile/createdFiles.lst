@@ -1,0 +1,11 @@
+org\thibaut\thelibrary\mapper\UserMapperImpl.class
+org\thibaut\thelibrary\service\contract\UserService.class
+org\thibaut\thelibrary\service\impl\UserDetailsServiceImpl.class
+org\thibaut\thelibrary\service\impl\UserServiceImpl.class
+org\thibaut\thelibrary\mapper\RoleMapperImpl.class
+org\thibaut\thelibrary\service\configuration\SchedulerConfiguration.class
+org\thibaut\thelibrary\mapper\UserMapper.class
+org\thibaut\thelibrary\mapper\RoleMapper.class
+org\thibaut\thelibrary\service\configuration\SecurityConfiguration.class
+org\thibaut\thelibrary\service\impl\PasswordServiceImpl.class
+org\thibaut\thelibrary\service\contract\PasswordService.class

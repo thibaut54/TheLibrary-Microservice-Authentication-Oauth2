@@ -1,0 +1,10 @@
+org\thibaut\thelibrary\config\AuthorizationServerConfig.class
+org\thibaut\thelibrary\utils\SingleResourceRetrievedEvent.class
+org\thibaut\thelibrary\config\CORSFilter.class
+org\thibaut\thelibrary\exception\ResourceNotFoundException.class
+org\thibaut\thelibrary\config\ResourceServerConfig.class
+org\thibaut\thelibrary\helper\DbPopulator.class
+org\thibaut\thelibrary\utils\RestPreconditions.class
+org\thibaut\thelibrary\AuthenticationApplication.class
+org\thibaut\thelibrary\config\SecurityConfig.class
+org\thibaut\thelibrary\controller\UserController.class
